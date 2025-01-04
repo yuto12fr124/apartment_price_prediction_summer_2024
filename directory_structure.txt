@@ -1,0 +1,17 @@
+/content/drive/MyDrive/yuto/project_directory
+/content/drive/MyDrive/yuto/project_directory/code
+/content/drive/MyDrive/yuto/project_directory/models
+/content/drive/MyDrive/yuto/project_directory/data
+/content/drive/MyDrive/yuto/project_directory/code/__pycache__
+/content/drive/MyDrive/yuto/project_directory/data/competition_data
+/content/drive/MyDrive/yuto/project_directory/data/external_data
+/content/drive/MyDrive/yuto/project_directory/data/intermediate_results
+/content/drive/MyDrive/yuto/project_directory/data/final_predictions
+/content/drive/MyDrive/yuto/project_directory/data/cv_predictions
+/content/drive/MyDrive/yuto/project_directory/data/model_params
+/content/drive/MyDrive/yuto/project_directory/data/competition_data/train
+/content/drive/MyDrive/yuto/project_directory/data/competition_data/train/__MACOSX
+/content/drive/MyDrive/yuto/project_directory/data/competition_data/train/train
+/content/drive/MyDrive/yuto/project_directory/data/competition_data/train/__MACOSX/train
+/content/drive/MyDrive/yuto/project_directory/data/intermediate_results/one_model_predictions
+/content/drive/MyDrive/yuto/project_directory/data/intermediate_results/checkpoints
